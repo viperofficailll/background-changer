@@ -1,0 +1,55 @@
+/* /* #body {} */
+/* 
+.chill {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+
+
+  display: flex;
+  align-items: center;
+
+}
+
+.yellow {
+
+  background-color: #949c21;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+
+}
+
+.green {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+
+}
+
+.hone {
+  align-items: center;
+} */
+
+
+#button1 {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+  
+  }
+  #button2 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+  
+  }
+  #button3 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+  
+  }
